@@ -1,0 +1,8 @@
+current day stock close price of SBIN.NS:749.20
+Predicted next day stock close price of SBIN.NS: 746.8245239257812  (trend:- downward)
+
+Current day stock close price of AAPL:222.78
+Predicted next day stock close price of AAPL: 225.48287963867188    (trend:- upward)
+
+current day stock close price of ADANIPORTS.NS:1,082.00
+Predicted next day stock close price of ADANIPORTS.NS: 1113.0535888671875 (trend:- upward)
