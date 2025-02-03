@@ -106,6 +106,8 @@ predicted_61st_day = model.predict(last_60_days)
 # Inverse transform to get the price in original scale
 predicted_61st_day = scaler.inverse_transform(predicted_61st_day)
 st.subheader(f"Predicted next day stock close price of {user_input}: {predicted_61st_day[0][0]}")
+st.subheader(f"Last day stock close price of {user_input}: {df['Close'][0]}")
+
 
 
 
